@@ -79,3 +79,5 @@ Step-by-step walkthrough of setting up Databricks Genie as a natural-language da
 For consulting or collaboration: **[resonance-analytics.com](https://www.resonance-analytics.com)** · **[LinkedIn](https://www.linkedin.com/in/rathes-waran/)**
 
 <!-- Last updated: 2026-04-11 -->
+
+<!-- Re-published via Contents API at 2026-04-11T11:05:57Z -->
