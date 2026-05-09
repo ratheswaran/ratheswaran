@@ -46,18 +46,6 @@ A working insurance-claims agent built on the deep agents pattern — long-horiz
 
 ---
 
-### Live Queries for Teams — natural-language Databricks SQL inside Microsoft Teams
-
-![Live Queries for Teams demo](assets/live-queries-demo.gif)
-
-A Microsoft Teams bot that translates plain-English questions into live Databricks SQL — no context-switching, no SQL skills, multi-space tenancy for separate department data. Productized with source code, setup guide, and strategy bundles.
-
-`Python` · `Teams Bot Framework` · `Azure App Service` · `Databricks SQL` · `OAuth`
-
-[See the project →](https://www.resonance-analytics.com/projects/live-queries-for-teams)
-
----
-
 ### Build an AI Data Assistant in Databricks — tutorial
 
 [<img src="assets/genie-tutorial.jpg" alt="Genie tutorial" width="640" />](https://www.youtube.com/watch?v=lK4lHmtAc6Q)
