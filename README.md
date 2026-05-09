@@ -34,6 +34,14 @@ Production SQL agent on Databricks Mosaic AI with composable middleware, human-i
 
 ### Deep Agents in Production
 
+[<img src="https://img.youtube.com/vi/fHweMnx1FYQ/maxresdefault.jpg" alt="Open Harness Engineering — agent runs notebooks and builds a dashboard" width="640" />](https://www.youtube.com/watch?v=fHweMnx1FYQ&t=39s)
+
+[Watch the demo →](https://www.youtube.com/watch?v=fHweMnx1FYQ&t=39s) — the agent answers a plain-English question, runs Databricks notebooks as tools, and builds a dashboard end-to-end.
+
+A working insurance-claims agent built on the deep agents pattern — long-horizon, tool-using LLM workflows. This is harness engineering: designing the scaffolding around the model that turns a one-shot LLM call into a reliable runtime. The agent answers natural-language questions about claims data, caches semantic context across turns, persists intermediate dataframes to the workspace, generates visualisations, and runs Databricks notebooks as tools.
+
+#### Capabilities at a glance
+
 ![Semantic cache reuse across turns](assets/deep-agent-1-semantic-cache.gif)
 
 ![Persisting intermediate dataframes to the workspace](assets/deep-agent-2-store-dataframe.gif)
@@ -41,8 +49,6 @@ Production SQL agent on Databricks Mosaic AI with composable middleware, human-i
 ![Generating visualisations from stored dataframes](assets/deep-agent-3-visualise-data.gif)
 
 ![Running Databricks notebooks as agent tools](assets/deep-agent-4-run-notebook.gif)
-
-A working insurance-claims agent built on the deep agents pattern — long-horizon, tool-using LLM workflows. This is harness engineering: designing the scaffolding around the model that turns a one-shot LLM call into a reliable runtime. The agent answers natural-language questions about claims data, caches semantic context across turns, persists intermediate dataframes to the workspace, generates visualisations, and runs Databricks notebooks as tools.
 
 ---
 
